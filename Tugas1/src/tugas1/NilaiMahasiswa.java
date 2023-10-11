@@ -10,7 +10,7 @@ package tugas1;
  */
 public class NilaiMahasiswa {
     String NIM = "2210631170122";
-    String Nama = "Ferika Pramudiyawa";
+    String Nama = "Ferika Pramudiyawan";
     short NilaiAbsen = 50;
     short NilaiTugas = 75;
     short NilaiUTS = 80;
